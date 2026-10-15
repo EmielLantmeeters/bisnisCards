@@ -11,8 +11,8 @@
             Console.WriteLine("oplijding:  graduwaat programeeren");
             Console.WriteLine("klass:      1PROB");
             Console.WriteLine("les:        c#");
-
-
+            Console.WriteLine("dino:       ouranosourus");
+            Console.WriteLine("ghostes:    yes");
         }
     }
 }
